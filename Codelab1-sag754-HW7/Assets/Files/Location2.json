@@ -1,0 +1,8 @@
+﻿{
+    "title": "Locked Jail Cell",
+    "description": "You try to open the bar door of the cell but it's locked.\n\nSOUTH brings you back to the hallway.\nWEST brings you to the end of the hallway.\n",
+    "nLocation": -1,
+    "sLocation": 1,
+    "eLocation": -1,
+    "wLocation": -1
+}

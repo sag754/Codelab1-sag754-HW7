@@ -1,0 +1,8 @@
+﻿{
+    "title": "Open Cell",
+    "description": "You wake up in an open jail cell.  You can see the hole you fell from above you.\n\nNORTH of you past your cell door is a hallway lined with jail cells.  The cell directly in front of yours is closed.\n",
+    "nLocation": 1,
+    "sLocation": -1,
+    "eLocation": -1,
+    "wLocation": -1
+}

@@ -1,0 +1,8 @@
+﻿{
+    "title": "Examine the Bucket",
+    "description": "Something catches your eye in the murky water of the bucket.  You dip your hand into the bucket's dirty water and pull out a rusted key.  Perhaps it will open the door?\n\nGo EAST to open the door.\n", 
+    "nLocation": -1,
+    "sLocation": -1,
+    "eLocation": 7,
+    "wLocation": -1
+}

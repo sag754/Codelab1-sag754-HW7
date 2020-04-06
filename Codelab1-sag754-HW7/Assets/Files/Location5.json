@@ -1,0 +1,8 @@
+﻿{
+    "title": "Your Cell",
+    "description": "It's the cell you fell into.  A hole at the top of the cell reveals the rotted wood that gave way to your weight.  You can see the entrace of the keep from here, but cannot reach high enough to make your way out of the hole.  Debris from the fall litters the cells floor.  There is nothing else here save for a few tattered rags.\n\nTo the NORTH is the dungeon hallway.\n",
+    "nLocation": 1,
+    "sLocation": -1,
+    "eLocation": -1,
+    "wLocation": -1
+}

@@ -1,0 +1,8 @@
+﻿{
+    "title": "Locked Door",
+    "description": "You try to open the Dungeon door of the cell but it's locked.  To your immediate left is a stool and a bucket full of water.\n\nEAST brings you back to the hallway.\n",
+    "nLocation": -1,
+    "sLocation": 6,
+    "eLocation": 1,
+    "wLocation": -1
+}

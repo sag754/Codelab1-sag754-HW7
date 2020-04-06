@@ -1,0 +1,8 @@
+﻿{
+    "title": "Locked Door",
+    "description": "You try the rusted key from the bucket on the door.  The key struggles to fit due to the rust.  At first you twist the key, and it doesn't work.  But you try again with all your strength and unlock the door, but also, break the key.\n\nTo the WEST exits the dungeon.\nTo The EAST goes back to the dungeon hallway.\n",
+    "nLocation": -1,
+    "sLocation": -1,
+    "eLocation": 8,
+    "wLocation": 9
+}

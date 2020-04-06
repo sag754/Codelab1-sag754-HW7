@@ -1,0 +1,8 @@
+﻿{
+    "title": "Dungeon Hallway",
+    "description": "You make your way out into the dungeon hallway.  Which way do you go?\n\nTo the NORTH of you is a closed Jail Cell.\nTo the SOUTH is the jail cell you came from.\nTo the EAST is the rest of the hallway.\nTo the WEST at the end of the hall is the opened door with a stool and bucket to the side of it.\n",
+    "nLocation": 2,
+    "sLocation": 5,
+    "eLocation": 4,
+    "wLocation": 9
+}

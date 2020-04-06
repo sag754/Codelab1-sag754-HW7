@@ -251,6 +251,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1014139600}
+        m_MethodName: GoSouth
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!82 &212768685
 AudioSource:
   m_ObjectHideFlags: 0
@@ -719,7 +730,7 @@ MonoBehaviour:
   sButton: {fileID: 212768684}
   eButton: {fileID: 1317323448}
   wButton: {fileID: 1335357132}
-  numLocations: 6
+  numLocations: 10
 --- !u!1 &1059635568
 GameObject:
   m_ObjectHideFlags: 0
@@ -923,6 +934,17 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1269531944}
         m_MethodName: Play
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1014139600}
+        m_MethodName: GoNorth
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1158,6 +1180,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1014139600}
+        m_MethodName: GoEast
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!82 &1317323449
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1319,6 +1352,17 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1335357136}
         m_MethodName: Play
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1014139600}
+        m_MethodName: GoWest
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1548,7 +1592,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Move West
+  m_Text: 'Check West
 
 '
 --- !u!222 &1588382368
@@ -1730,7 +1774,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Move North
+  m_Text: Check North
 --- !u!222 &1821311500
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1882,7 +1926,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Move East
+  m_Text: Check East
 --- !u!222 &1880565098
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1959,7 +2003,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Move South
+  m_Text: Check South
 --- !u!222 &1992342000
 CanvasRenderer:
   m_ObjectHideFlags: 0

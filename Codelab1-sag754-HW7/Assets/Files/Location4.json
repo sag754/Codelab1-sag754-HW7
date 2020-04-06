@@ -1,0 +1,8 @@
+﻿{
+    "title": "Dead End Hallway",
+    "description": "You see 6 more locked jail cells.  Three on each side of the hallway all of which at a glance seem to be locked and empty.  A Stone wall is at the end of the hall.  A dead end.  You contemplate your luck in falling into the only cell that was open.\n\nWEST goes back to the hallway",
+    "nLocation": -1,
+    "sLocation": -1,
+    "eLocation": -1,
+    "wLocation": 1
+}
